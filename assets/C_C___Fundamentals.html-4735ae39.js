@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1b7f6806","path":"/work/C___Language/C_C___Fundamentals.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1696872041000,"updatedTime":1696872041000,"contributors":[{"name":"teslapeer","email":"zxz9457639@gmail.com","commits":1}]},"filePathRelative":"work/C++_Language/C&C++_Fundamentals.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-25d2e40c","path":"/base/cook.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"base/cook.md"}');export{e as data};
